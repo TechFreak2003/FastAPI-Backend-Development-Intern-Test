@@ -1,0 +1,21 @@
+{
+    "alice": [
+        {
+            "timestamp": "2025-07-08T15:43:54.577997",
+            "prompt": "What is the capital of France?",
+            "response": "Here's my take on that..."
+        },
+        {
+            "timestamp": "2025-07-08T15:51:05.583395",
+            "prompt": "Who is Albert Einstein?",
+            "response": "Great question! Let me break it down..."
+        }
+    ],
+    "bob": [
+        {
+            "timestamp": "2025-07-08T15:53:42.837693",
+            "prompt": "What is Philosophy?",
+            "response": "That's worth considering from multiple angles..."
+        }
+    ]
+}
