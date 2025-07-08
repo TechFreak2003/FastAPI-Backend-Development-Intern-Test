@@ -101,7 +101,7 @@ curl -X POST "http://localhost:8000/prompt" -H "Authorization: Bearer <your-toke
 
 ### View History
 ```bash
-curl -X GET "http://localhost:8000/history" -H "Authorization: Bearer <your-token>"
+curl -X GET "http://localhost:8000/history" -H "Authorization: <your-token>"
 ```
 
 ## 📄 History Storage
