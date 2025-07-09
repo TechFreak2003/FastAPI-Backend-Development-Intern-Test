@@ -55,7 +55,7 @@ This FastAPI backend application demonstrates modern backend practices, showcasi
 
 ```bash
 # Clone the repository
-git clone https://github.com/TechFreak2003/fastapi-backend-intern-test
+git clone https://github.com/TechFreak2003/fastapi-backend-development-intern-test
 cd backend_app
 
 # Create and activate virtual environment
@@ -96,7 +96,7 @@ curl -X POST "http://localhost:8000/login" -H "Content-Type: application/json" -
 
 ### Prompt Submit
 ```bash
-curl -X POST "http://localhost:8000/prompt" -H "Authorization: Bearer <your-token>" -H "Content-Type: application/json" -d '{"prompt": "What is the capital of France?"}'
+curl -X POST "http://localhost:8000/prompt" -H "Authorization: <your-token>" -H "Content-Type: application/json" -d '{"prompt": "What is the capital of France?"}'
 ```
 
 ### View History
