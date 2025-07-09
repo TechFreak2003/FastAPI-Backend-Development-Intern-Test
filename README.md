@@ -55,7 +55,7 @@ This FastAPI backend application demonstrates modern backend practices, showcasi
 
 ```bash
 # Clone the repository
-git clone https://github.com/Suvrodeep2002/fastapi-backend-intern-test
+git clone https://github.com/TechFreak2003/fastapi-backend-intern-test
 cd backend_app
 
 # Create and activate virtual environment
